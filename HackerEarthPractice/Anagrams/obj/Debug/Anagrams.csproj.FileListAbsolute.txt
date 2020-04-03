@@ -1,0 +1,7 @@
+D:\GitCode\HackerEarth\HackerEarthPractice\Anagrams\bin\Debug\Anagrams.exe.config
+D:\GitCode\HackerEarth\HackerEarthPractice\Anagrams\bin\Debug\Anagrams.exe
+D:\GitCode\HackerEarth\HackerEarthPractice\Anagrams\bin\Debug\Anagrams.pdb
+D:\GitCode\HackerEarth\HackerEarthPractice\Anagrams\obj\Debug\Anagrams.csprojAssemblyReference.cache
+D:\GitCode\HackerEarth\HackerEarthPractice\Anagrams\obj\Debug\Anagrams.csproj.CoreCompileInputs.cache
+D:\GitCode\HackerEarth\HackerEarthPractice\Anagrams\obj\Debug\Anagrams.exe
+D:\GitCode\HackerEarth\HackerEarthPractice\Anagrams\obj\Debug\Anagrams.pdb

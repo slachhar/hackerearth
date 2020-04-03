@@ -1,0 +1,7 @@
+D:\GitCode\HackerEarth\HackerEarthPractice\bin\Debug\HackerEarthPractice.exe.config
+D:\GitCode\HackerEarth\HackerEarthPractice\bin\Debug\HackerEarthPractice.exe
+D:\GitCode\HackerEarth\HackerEarthPractice\bin\Debug\HackerEarthPractice.pdb
+D:\GitCode\HackerEarth\HackerEarthPractice\obj\Debug\HackerEarthPractice.csprojAssemblyReference.cache
+D:\GitCode\HackerEarth\HackerEarthPractice\obj\Debug\HackerEarthPractice.csproj.CoreCompileInputs.cache
+D:\GitCode\HackerEarth\HackerEarthPractice\obj\Debug\HackerEarthPractice.exe
+D:\GitCode\HackerEarth\HackerEarthPractice\obj\Debug\HackerEarthPractice.pdb

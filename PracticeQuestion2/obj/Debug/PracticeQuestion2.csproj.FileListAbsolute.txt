@@ -1,0 +1,7 @@
+D:\GitCode\HackerEarth\PracticeQuestion2\bin\Debug\PracticeQuestion2.exe.config
+D:\GitCode\HackerEarth\PracticeQuestion2\bin\Debug\PracticeQuestion2.exe
+D:\GitCode\HackerEarth\PracticeQuestion2\bin\Debug\PracticeQuestion2.pdb
+D:\GitCode\HackerEarth\PracticeQuestion2\obj\Debug\PracticeQuestion2.csprojAssemblyReference.cache
+D:\GitCode\HackerEarth\PracticeQuestion2\obj\Debug\PracticeQuestion2.csproj.CoreCompileInputs.cache
+D:\GitCode\HackerEarth\PracticeQuestion2\obj\Debug\PracticeQuestion2.exe
+D:\GitCode\HackerEarth\PracticeQuestion2\obj\Debug\PracticeQuestion2.pdb
