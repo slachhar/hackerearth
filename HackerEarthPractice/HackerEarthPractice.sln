@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeQuestion2", "..\Pra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagrams.csproj", "{7BB7AE43-88BA-4678-B362-2442430F595D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromicString", "..\PalindromicString\PalindromicString.csproj", "{EBF57F48-BBDA-430D-AD8D-79FDAA169329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindProduct", "FindProduct\FindProduct.csproj", "{D6C8D298-3DFF-4874-860E-A90858AA051D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{7BB7AE43-88BA-4678-B362-2442430F595D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BB7AE43-88BA-4678-B362-2442430F595D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BB7AE43-88BA-4678-B362-2442430F595D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF57F48-BBDA-430D-AD8D-79FDAA169329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF57F48-BBDA-430D-AD8D-79FDAA169329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF57F48-BBDA-430D-AD8D-79FDAA169329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF57F48-BBDA-430D-AD8D-79FDAA169329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C8D298-3DFF-4874-860E-A90858AA051D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C8D298-3DFF-4874-860E-A90858AA051D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C8D298-3DFF-4874-860E-A90858AA051D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C8D298-3DFF-4874-860E-A90858AA051D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
