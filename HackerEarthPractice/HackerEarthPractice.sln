@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenSegmentDisplay", "Seve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProduct", "..\FinalProduct\FinalProduct.csproj", "{2D04207A-B17A-4E96-A51B-35DE7623B67F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryQueries", "..\DataStructures\Arrays\BinaryQueries\BinaryQueries.csproj", "{8C7C4AC8-12BE-433B-97F2-F063ED72C4FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2D04207A-B17A-4E96-A51B-35DE7623B67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D04207A-B17A-4E96-A51B-35DE7623B67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D04207A-B17A-4E96-A51B-35DE7623B67F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7C4AC8-12BE-433B-97F2-F063ED72C4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7C4AC8-12BE-433B-97F2-F063ED72C4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7C4AC8-12BE-433B-97F2-F063ED72C4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7C4AC8-12BE-433B-97F2-F063ED72C4FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
